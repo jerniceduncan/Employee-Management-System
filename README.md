@@ -6,9 +6,9 @@
 
 ## Demo
 
-[alt text](https://github.com/jerniceduncan/11NoteTaker/blob/master/public/assets/images/Note%20Taker.gif)
+[alt text](https://github.com/jerniceduncan/Employee-Management-System/blob/master/images/employee%20tracker12.gif)
 
-[alt text](https://github.com/jerniceduncan/11-Note-Taker/blob/master/public/assets/images/image.png)
+
 
 
 ---
