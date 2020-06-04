@@ -6,7 +6,7 @@
 
 ## Demo
 
-[alt text](https://github.com/jerniceduncan/Employee-Management-System/blob/master/images/employee%20tracker12.gif)
+![alt text](https://github.com/jerniceduncan/Employee-Management-System/blob/master/images/employee%20tracker12.gif)
 
 
 
